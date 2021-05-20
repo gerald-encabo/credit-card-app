@@ -7,7 +7,7 @@ export const homeObjOne = {
     description: 'We offer our exclusive diamond card that allows you to spend without worrying about penalty charge fees for exceeding the limit use of the transaction.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'images/svg-home-1.svg',
+    img: '/images/svg-home-1.svg',
     alt: 'Credit Card display image',
     pageDirect: 'pricing'
 };
@@ -21,7 +21,7 @@ export const homeObjTwo = {
     description: 'Pay with Rewards is a one-of-a-kind digital experience that gives cardholders the freedom to spend points like cash at the moment of purchase for instant.',
     buttonLabel: 'Sign Up Now',
     imgStart: '',
-    img: 'images/svg-home-2.svg',
+    img: '/images/svg-home-2.svg',
     alt: 'Users mobile phone display image',
     pageDirect: 'sign-in'
   };
@@ -35,7 +35,7 @@ export const homeObjThree = {
     description: `Every transaction made is stored on our cloud database and it can be accessed anytime, so don't have to worry about saving receipts.`,
     buttonLabel: 'Learn More',
     imgStart: 'start',
-    img: 'images/svg-home-3.svg',
+    img: '/images/svg-home-3.svg',
     alt: 'Reward redemption display image',
     pageDirect: 'services'
   };

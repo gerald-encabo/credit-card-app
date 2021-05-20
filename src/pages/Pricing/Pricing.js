@@ -16,7 +16,7 @@ function Pricing() {
                     <h1 className="pricing__heading">Pricing</h1>
                     <div className="pricing__container">
                         
-                        <Link to="/" className="pricing__container-card">
+                        <Link to="#" className="pricing__container-card">
                             <div className="pricing__container-cardInfo">
                                 <div className="icon">
                                     <FaFire />
@@ -35,7 +35,7 @@ function Pricing() {
                             </div>
                         </Link>
 
-                        <Link to="/" className="pricing__container-card">
+                        <Link to="#" className="pricing__container-card">
                             <div className="pricing__container-cardInfo">
                                 <div className="icon">
                                     <BsXDiamondFill />
@@ -54,7 +54,7 @@ function Pricing() {
                             </div>
                         </Link>
 
-                        <Link to="/" className="pricing__container-card">
+                        <Link to="#" className="pricing__container-card">
                             <div className="pricing__container-cardInfo">
                                 <div className="icon">
                                     <GiCutDiamond />
