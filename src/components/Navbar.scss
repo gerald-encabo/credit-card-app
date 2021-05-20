@@ -35,7 +35,7 @@
     justify-content: center;
     list-style: none;
     text-align: center;
-    justify-content: end;
+    justify-content: start;
   }
   &-item {
     height: 80px;
@@ -121,18 +121,18 @@
             height: 120px;
           }
     }
-        .menu-icon {
-            display: block;
-            position: absolute;
-            top: 0;
-            right: 0;
-            transform: translate(-100%, 60%);
-            font-size: 1.8rem;
-            cursor: pointer;
-        }
-        .fa-times {
-            color: $primary;
-            font-size: 2rem;
-        }
+    .menu-icon {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.8rem;
+        cursor: pointer;
+    }
+    .fa-times {
+        color: $primary;
+        font-size: 2rem;
+    }
 }
   

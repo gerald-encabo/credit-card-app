@@ -17,7 +17,7 @@ function Footer() {
             You can unsubscribe at any time.
           </p>
           <div className='input-areas'>
-            <form>
+            <form action='#'>
               <input className='footer-input' name='email' type='email' placeholder='Your Email' required/>
               <Button  buttonStyle='btn--secondary'>Subscribe</Button>
             </form>
