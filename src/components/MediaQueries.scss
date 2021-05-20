@@ -1,0 +1,40 @@
+@mixin sign-in-small-devices {
+    @media screen and (max-width: 700px) {
+       @content;
+    }
+}
+
+@mixin services-small-devices {
+    @media screen and (max-width:  1280px) {
+       @content;
+    }
+}
+
+@mixin pricing-small-devices {
+    @media screen and (max-width: 960px){
+        @content;
+    }
+}
+
+@mixin navbar-small-devices {
+    @media screen and (max-width: 960px) {
+        @content;
+    }
+}
+
+@mixin hero-section-small-devices-v1 {
+    @media screen and (max-width: 960px){
+        @content;
+    }
+}
+@mixin hero-section-small-devices-v2 {
+    @media screen and (max-width: 760px){
+        @content;
+    }
+}
+
+@mixin footer-small-devices {
+    @media screen and (max-width: 820px){
+        @content;
+    }
+}
