@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/credit-card-app/static/css/main.6b47159d.chunk.css",
-    "main.js": "/credit-card-app/static/js/main.eca0bafc.chunk.js",
-    "main.js.map": "/credit-card-app/static/js/main.eca0bafc.chunk.js.map",
+    "main.js": "/credit-card-app/static/js/main.24ac33b5.chunk.js",
+    "main.js.map": "/credit-card-app/static/js/main.24ac33b5.chunk.js.map",
     "runtime-main.js": "/credit-card-app/static/js/runtime-main.2adf106c.js",
     "runtime-main.js.map": "/credit-card-app/static/js/runtime-main.2adf106c.js.map",
     "static/js/2.a5b7b3ee.chunk.js": "/credit-card-app/static/js/2.a5b7b3ee.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2adf106c.js",
     "static/js/2.a5b7b3ee.chunk.js",
     "static/css/main.6b47159d.chunk.css",
-    "static/js/main.eca0bafc.chunk.js"
+    "static/js/main.24ac33b5.chunk.js"
   ]
 }
