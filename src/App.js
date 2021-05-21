@@ -1,6 +1,6 @@
 import './App.scss';
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home/Home';
 import Products from './pages/Products/Products';
@@ -16,7 +16,10 @@ function App() {
       <ScrollToTop />
       <Navbar />
         <Switch>
-           <Route path='/home' exact component={ Home } />
+          <Route path='/credit-card-app' exact>
+             <Redirect to="/" />
+          </Route>
+           <Route path='/' exact component={ Home } />
            <Route path='/products' exact component={ Products } />
            <Route path='/services' exact component={ Services } />
            <Route path='/pricing' exact component={ Pricing } />
