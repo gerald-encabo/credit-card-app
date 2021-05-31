@@ -12,4 +12,3 @@ export const homeObjOne = {
     alt: 'Credit Card',
     pageDirect: 'pricing'
   };
-  

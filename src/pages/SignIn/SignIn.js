@@ -15,7 +15,7 @@ function SignIn() {
                 </div>
                 <div className="sign-in__container sign-in-side-2">
                     <p className="sign-in__heading">Sign in to your account</p>
-                    <form action='#' className="sign-in__form">
+                    <form action='/' className="sign-in__form">
                         <label className="sign-in__label">Email</label>
                         <input type="email" name="email" className="sign-in__input" required />
                         <label className="sign-in__label">Password</label>

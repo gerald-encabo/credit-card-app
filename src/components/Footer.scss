@@ -29,11 +29,11 @@
     }
     &-subscription-heading {
       margin-bottom: 24px;
-      font-size: 24px;
+      font-size: 1.5rem;
     }
     &-subscription-text {
       margin-bottom: 24px;
-      font-size: 20px;
+      font-size: 1.25rem;
     }
     &-input {
       padding: 8px 24px;
@@ -41,7 +41,7 @@
       margin-right: 10px;
       outline: none;
       border: none;
-      font-size: 18px;
+      font-size: 1.125rem;
       margin-bottom: 16px;
       border: 1px solid $primary;
     }
@@ -95,7 +95,7 @@
 
     &-icon-link {
       color: $primary;
-      font-size: 24px;
+      font-size: 1.5rem;
     }
     &-icon-link:hover {
       color: $tertiary;
@@ -133,7 +133,7 @@
   .website-rights {
     color: $primary;
     margin-bottom: 6px;
-    font-size: 18px;
+    font-size: 1.125rem;
     text-align: center;
   }
   

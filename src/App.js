@@ -16,9 +16,9 @@ function App() {
       <ScrollToTop />
       <Navbar />
         <Switch>
-          <Route path='/credit-card-app' exact>
+           <Route path='/credit-card-app' exact>
              <Redirect to="/" />
-          </Route>
+           </Route>
            <Route path='/' exact component={ Home } />
            <Route path='/products' exact component={ Products } />
            <Route path='/services' exact component={ Services } />

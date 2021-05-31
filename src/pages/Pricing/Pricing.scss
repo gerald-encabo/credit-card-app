@@ -40,7 +40,7 @@
     &__heading {
         color: $dark;
         margin-bottom: 24px;
-        font-size: 48px;
+        font-size: 3rem;
     }   
     &__container-cardInfo {
         display: flex;
@@ -52,13 +52,13 @@
     }
     &__container-card h3 {
         margin-bottom: 5px;
-        font-size: 24px;
+        font-size: 1.5rem;
     }
     &__container-cardInfo h4 {
-        font-size: 40px;
+        font-size: 2.5rem;
     }
     &__container-cardInfo p {
-        font-size: 18px;
+        font-size: 1.125rem;
         margin-bottom: 24px;
     }
     &__container-features {
@@ -70,7 +70,7 @@
     }
     &__container-features li {
         margin-bottom: 8px;
-        font-size: 18px;
+        font-size: 1.125rem;
     }
     .icon {
         margin: 24px 0;
