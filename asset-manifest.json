@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/credit-card-app/static/css/main.6b47159d.chunk.css",
-    "main.js": "/credit-card-app/static/js/main.b50c3ab0.chunk.js",
-    "main.js.map": "/credit-card-app/static/js/main.b50c3ab0.chunk.js.map",
+    "main.css": "/credit-card-app/static/css/main.a93440c0.chunk.css",
+    "main.js": "/credit-card-app/static/js/main.afb0dc86.chunk.js",
+    "main.js.map": "/credit-card-app/static/js/main.afb0dc86.chunk.js.map",
     "runtime-main.js": "/credit-card-app/static/js/runtime-main.2adf106c.js",
     "runtime-main.js.map": "/credit-card-app/static/js/runtime-main.2adf106c.js.map",
-    "static/js/2.a5b7b3ee.chunk.js": "/credit-card-app/static/js/2.a5b7b3ee.chunk.js",
-    "static/js/2.a5b7b3ee.chunk.js.map": "/credit-card-app/static/js/2.a5b7b3ee.chunk.js.map",
+    "static/js/2.79fe481a.chunk.js": "/credit-card-app/static/js/2.79fe481a.chunk.js",
+    "static/js/2.79fe481a.chunk.js.map": "/credit-card-app/static/js/2.79fe481a.chunk.js.map",
     "index.html": "/credit-card-app/index.html",
-    "static/css/main.6b47159d.chunk.css.map": "/credit-card-app/static/css/main.6b47159d.chunk.css.map",
-    "static/js/2.a5b7b3ee.chunk.js.LICENSE.txt": "/credit-card-app/static/js/2.a5b7b3ee.chunk.js.LICENSE.txt"
+    "static/css/main.a93440c0.chunk.css.map": "/credit-card-app/static/css/main.a93440c0.chunk.css.map",
+    "static/js/2.79fe481a.chunk.js.LICENSE.txt": "/credit-card-app/static/js/2.79fe481a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2adf106c.js",
-    "static/js/2.a5b7b3ee.chunk.js",
-    "static/css/main.6b47159d.chunk.css",
-    "static/js/main.b50c3ab0.chunk.js"
+    "static/js/2.79fe481a.chunk.js",
+    "static/css/main.a93440c0.chunk.css",
+    "static/js/main.afb0dc86.chunk.js"
   ]
 }
