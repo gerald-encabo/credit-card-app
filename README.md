@@ -5,4 +5,5 @@ This credit card react app is responsive on all devices with multiple pages and 
 Link: https://geraldencabo.github.io/credit-card-app/
 
 Main Page Display:
+
 ![display1](https://user-images.githubusercontent.com/15988182/119826221-cd789a80-bec5-11eb-806c-65ddc97bc3fe.png)
